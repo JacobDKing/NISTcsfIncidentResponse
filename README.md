@@ -3,7 +3,7 @@ In this project, the NIST cybersecurity framework is used to analyze a scripted 
 <br />
 Below is the scenario guide, outlining the project's fictional incident.
 <br />
-The 'incident report analysis' itself is attached to this projects main repository, or may also be accessed [here](https://github.com/JacobDKing/NISTcsfIncidentResponse/edit/main/README.md).
+The 'incident report analysis' itself is attached to this projects main repository, or may also be accessed [here](https://github.com/JacobDKing/NISTcsfIncidentResponse/blob/main/Incident%20report%20analysis.pdf).
 
 <br />
 <br />
